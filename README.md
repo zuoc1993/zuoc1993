@@ -6,9 +6,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 📋 2024 todo:
-  - [ ] 🚀 神州十八号发射
+  - [ ] ~~🚀 神州十八号发射~~
   - [ ] 🏔️ 登顶雪山
   - [ ] 🌌 胶片拍银河
+  - [ ] 🏇 新疆学骑马
+  - [ ] 🤙 手语
 
 <!---
 zuoc1993/zuoc1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
